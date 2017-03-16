@@ -1,3 +1,8 @@
+/*
+    find the sum of the following series
+    1 + 1/4 + 1/7 + .... up the nth number in the series
+*/
+
 #include <algorithm>
 #include <vector>
 #include <iomanip>
