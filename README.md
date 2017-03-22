@@ -1,2 +1,2 @@
 # Katas
-Codewars katas solved in various languages
+Codewars and leetcode katas solved in various languages.
