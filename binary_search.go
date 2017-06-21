@@ -1,5 +1,8 @@
 package main
-import ("fmt")
+import  (
+	"fmt",
+ 	"sort"
+)
 
 // rudimentary insertion sort
 func insertion_sort(list []int) []int {
